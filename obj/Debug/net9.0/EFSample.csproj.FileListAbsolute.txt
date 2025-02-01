@@ -135,3 +135,4 @@ C:\Users\omaro\RiderProjects\EFSample\obj\Debug\net9.0\refint\EFSample.dll
 C:\Users\omaro\RiderProjects\EFSample\obj\Debug\net9.0\EFSample.pdb
 C:\Users\omaro\RiderProjects\EFSample\obj\Debug\net9.0\EFSample.genruntimeconfig.cache
 C:\Users\omaro\RiderProjects\EFSample\obj\Debug\net9.0\ref\EFSample.dll
+C:\Users\omaro\RiderProjects\EFSample\obj\Debug\net9.0\EFSample.sourcelink.json
